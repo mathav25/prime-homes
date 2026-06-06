@@ -90,10 +90,11 @@ body{
 
 .hero-content h1{
 
-    .hero-content h1{
-        font-size:54px;
-        line-height:1.2;
-    }
+    font-size:54px;
+
+    line-height:1.2;
+
+    margin-bottom:20px;
 
 }
 
@@ -749,4 +750,13 @@ button:hover{
 
 .why-card:hover{
     transform:translateY(-8px);
+}
+.menu-toggle{
+
+    display:none;
+
+    font-size:30px;
+
+    cursor:pointer;
+
 }
