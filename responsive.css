@@ -1,0 +1,172 @@
+@media(max-width:992px){
+
+    .search-container{
+    
+        flex-direction:column;
+    
+    }
+    
+    .search-btn{
+    
+        width:100%;
+    
+    }
+    
+    }
+    @media(max-width:992px){
+
+        .trust-section{
+        
+            grid-template-columns:repeat(2,1fr);
+        
+        }
+        
+        }
+        @media(max-width:768px){
+
+            .trust-section{
+            
+                grid-template-columns:1fr;
+            
+            }
+            
+            }
+
+            @media(max-width:1200px){
+
+                .property-grid{
+                
+                grid-template-columns:repeat(2,1fr);
+                
+                }
+                
+                }
+                @media(max-width:768px){
+
+                    .property-grid{
+                    
+                    grid-template-columns:1fr;
+                    
+                    }
+                    
+                    .section-header{
+                    
+                    flex-direction:column;
+                    
+                    gap:15px;
+                    
+                    }
+                    
+                    }
+                    @media(max-width:992px){
+
+                        .why-grid{
+                        
+                            grid-template-columns:repeat(2,1fr);
+                        
+                        }
+                        
+                        }
+                        @media(max-width:768px){
+
+                            .why-grid{
+                            
+                                grid-template-columns:1fr;
+                            
+                            }
+                            
+                            }
+                            @media(max-width:768px){
+
+                                .testimonial-grid{
+                                
+                                    grid-template-columns:1fr;
+                                
+                                }
+                                
+                                }
+                                @media(max-width:768px){
+
+                                    .footer-container{
+                                    
+                                        grid-template-columns:1fr;
+                                    
+                                        text-align:center;
+                                    
+                                    }
+                                    
+                                    }
+                                    @media(max-width:768px){
+
+                                        .navbar{
+                                        
+                                            padding:20px;
+                                        
+                                            justify-content:space-between;
+                                        
+                                            flex-wrap:wrap;
+                                        
+                                        }
+                                        
+                                        .logo h2{
+                                        
+                                            font-size:28px;
+                                        
+                                        }
+                                        
+                                        .menu-toggle{
+                                        
+                                            display:block;
+                                        
+                                        }
+                                        
+                                        .nav-links{
+                                        
+                                            display:none;
+                                        
+                                            width:100%;
+                                        
+                                            flex-direction:column;
+                                        
+                                            text-align:center;
+                                        
+                                            gap:15px;
+                                        
+                                            margin-top:20px;
+                                        
+                                        }
+                                        
+                                        .nav-links.active{
+                                        
+                                            display:flex;
+                                        
+                                        }
+                                        
+                                        .login-btn{
+                                        
+                                            display:none;
+                                        
+                                        }
+                                        
+                                        .hero{
+                                        
+                                            flex-direction:column;
+                                        
+                                            padding:30px;
+                                        
+                                        }
+                                        
+                                        .hero-content h1{
+                                        
+                                            font-size:36px;
+                                        
+                                        }
+                                        
+                                        .search-section{
+                                        
+                                            width:95%;
+                                        
+                                        }
+                                        
+                                        }
+                                    
